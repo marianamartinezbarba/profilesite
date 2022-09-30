@@ -1,2 +1,2 @@
-# profilesite
-My profile site
+# flexbox-demo
+demo files for teaching flexbox
